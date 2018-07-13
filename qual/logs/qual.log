@@ -1,0 +1,72 @@
+
+
+[June 30 2018 19:05:51][Bitrix::getFilmInfo] 
+Array
+(
+    [Title] => The Hateful Eight
+    [Year] => 2015
+    [Rated] => R
+    [Released] => 30 Dec 2015
+    [Runtime] => 187 min
+    [Genre] => Crime, Drama, Mystery
+    [Director] => Quentin Tarantino
+    [Writer] => Quentin Tarantino
+    [Actors] => Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins
+    [Plot] => In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.
+    [Language] => English, Spanish, French
+    [Country] => USA
+    [Awards] => Won 1 Oscar. Another 39 wins & 113 nominations.
+    [Poster] => https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_SX300.jpg
+    [Ratings] => Array
+        (
+            [0] => Array
+                (
+                    [Source] => Internet Movie Database
+                    [Value] => 7.8/10
+                )
+
+            [1] => Array
+                (
+                    [Source] => Rotten Tomatoes
+                    [Value] => 74%
+                )
+
+            [2] => Array
+                (
+                    [Source] => Metacritic
+                    [Value] => 68/100
+                )
+
+        )
+
+    [Metascore] => 68
+    [imdbRating] => 7.8
+    [imdbVotes] => 393,889
+    [imdbID] => tt3460252
+    [Type] => movie
+    [DVD] => 29 Mar 2016
+    [BoxOffice] => $54,116,191
+    [Production] => The Weinstein Company
+    [Website] => http://thehatefuleight.com/
+    [Response] => True
+)
+
+
+[June 30 2018 19:05:51][Bitrix::getFormatData] 
+<img src = https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_SX300.jpg /><br><b>Title</b>: The Hateful Eight<br><b>Year</b>: 2015<br><b>Rated</b>: R<br><b>Released</b>: 30 Dec 2015<br><b>Runtime</b>: 187 min<br><b>Genre</b>: Crime, Drama, Mystery<br><b>Director</b>: Quentin Tarantino<br><b>Writer</b>: Quentin Tarantino<br><b>Actors</b>: Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins<br><b>Plot</b>: In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.<br><b>Language</b>: English, Spanish, French<br><b>Country</b>: USA<br><b>Awards</b>: Won 1 Oscar. Another 39 wins & 113 nominations.<br><b>Poster</b>: https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_SX300.jpg<br><b>Ratings</b>: Array<br><b>Metascore</b>: 68<br><b>imdbRating</b>: 7.8<br><b>imdbVotes</b>: 393,889<br><b>imdbID</b>: tt3460252<br><b>Type</b>: movie<br><b>DVD</b>: 29 Mar 2016<br><b>BoxOffice</b>: $54,116,191<br><b>Production</b>: The Weinstein Company<br><b>Website</b>: http://thehatefuleight.com/<br><b>Response</b>: True<br>
+
+[June 30 2018 19:05:52][Bitrix::addComment] 
+Array
+(
+    [result] => 174023
+    [time] => Array
+        (
+            [start] => 1530374751.747
+            [finish] => 1530374752.0608
+            [duration] => 0.31374192237854
+            [processing] => 0.26114892959595
+            [date_start] => 2018-06-30T19:05:51+03:00
+            [date_finish] => 2018-06-30T19:05:52+03:00
+        )
+
+)
